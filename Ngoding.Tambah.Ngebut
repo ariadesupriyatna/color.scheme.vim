@@ -1,0 +1,37 @@
+Ngoding Tambah Ngebut
+ 
+l = kanan
+j = bawah
+k = keatas
+h = kiri
+w = maju ke kanan satu kata
+b = mundur ke kiri satu kata
+i = masuk mode insert mode
+shift + a = loncat ke ahir baris tersebut
+shift + i = loncat ke awal baris tersebut
+o = untuk baris baru dibawah
+shift + o = untuk baris baru di atas
+yy = copy code di baris tersebut
+yw = copy satu kata ke kanan
+yb = copy satu kata ke kiri
+p = paste code dibawah baris tersebut
+shift + p = paste code diatas baris tersebut
+ctrl + u = kembalikan huruf terhapus
+ctrl + r = hapus huruf yang sudah dikembalikan
+7l = lewati 7 huruf ke kanan
+10j = kebawah 10 baris
+x = hapus satu huruf
+dd = hapus satu baris
+dw = hapus satu kata ke kanan dari tempat berada
+diw = hapus satu kata ke kanan secara menyeluruh
+db = hapus satu kata ke kiri dari tempat
+dib = hapus satu kata ke kiri secara menyeluruh
+di[ = hapus semua kata yang ada di dalam [ ]
+da[ = hapus semua kata dan juga hapus [ ]
+di" = hapus semua kata yang ada di antara " "
+di< = hapus semua kata yang ada di dalam < >
+:wq = simpan dan keluar
+:q! = keluar tanpa simpan
+ 
+ada normal mode = semua tombol jadi perintah
+ada insert mode = untuk input karakter
