@@ -2,6 +2,8 @@ syntax on
 
 set number
 
+set relativenumber
+
 set hlsearch
 
 set cursorline
