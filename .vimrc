@@ -7,9 +7,16 @@ set relativenumber
 set hlsearch
 
 set cursorline
-:highlight Cursorline cterm=bold ctermbg=black
+:highlight cursorline cterm=bold ctermbg=black
+
+set cursorcolumn
+:highlight cursorline cterm=bold ctermbg=black
 
 set ignorecase
+
+set nowrap
+
+set nobackup
 
 set smartcase
 
@@ -25,6 +32,8 @@ set expandtab
 
 set autoindent
 
-set background=dark
+set history=1000
 
-colorscheme blue
+set background=light
+
+colorscheme morning
